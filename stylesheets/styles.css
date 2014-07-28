@@ -1,0 +1,71 @@
+.israeli h2, .palestinian h2 {
+    margin-bottom: 20px;
+}
+
+div.palestinian, div.israeli {display: none;}
+
+.forevery img {
+
+}
+
+.yearskids img {width: 25px;}
+
+.yearskidstotal img {width: 15px;}
+
+.yearskids {margin-top: 5px;}
+
+#years h1 {margin-bottom: 34px;}
+
+.forevery .paltitle {
+    text-align: right;
+    margin-top: 25px;
+}
+
+.forevery .isrtitle {
+    margin-bottom: 25px;
+}
+
+/* share buttons */
+
+.sharebuttons span a {
+    font-size: 1.5em;
+}
+
+a.facebook  {
+    background-color: #2642a1;
+    color: white;
+}
+
+a.facebook:hover  {
+    background-color: #3e6dff;
+    color: white;
+}
+
+a.twitter  {
+    background-color: #42a6fd;
+    color: white;
+}
+
+a.twitter:hover  {
+    background-color: #64c5fd;
+    color: white;
+}
+
+.addthis_native_toolbox {
+    float: right;
+    margin-top: 10px;
+    height: 26px;
+}
+
+#twitter-widget-0 {
+    width: 100px !important;
+}
+
+#fbiframe {
+    float: right;
+}
+
+.about {
+    display: none;
+}
+
